@@ -5,7 +5,7 @@ export const Mappa = forwardRef<SVGSVGElement>((props, ref) => (
     ref={ref}
     xmlns="http://www.w3.org/2000/svg"
     xmlnsXlink="http://www.w3.org/1999/xlink"
-    // viewBox="0 0 716.8 345.4"
+    viewBox="0 0 71680 34540"
     width={7168}
     height={3454}
     fill="none"
