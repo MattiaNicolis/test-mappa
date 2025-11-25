@@ -8,6 +8,7 @@ type coloriStanzeType = {
 
 function HomePage() {
 
+    //State
     const mappaRef = useRef<SVGSVGElement>(null)
 
     const [stanza, setStanza] = useState<SVGSVGElement[]>([])
@@ -31,6 +32,7 @@ function HomePage() {
         }))
     }, [stanza])
 
+    //Render
     return(
         <div>
             {stanza.map((_, i) => (
