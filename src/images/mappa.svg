@@ -1,9 +1,9 @@
 <svg width="7168" height="3454" viewBox="0 0 7168 3454" fill="none"
     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <rect width="7168" height="3454" fill="white" />
-    <rect x="803.5" y="56.5" width="1571" height="1670" fill="yellow" stroke="#FF0000" />
+    <rect x="803.5" y="56.5" width="1571" height="1670" fill="white" stroke="#FF0000" />
     <rect x="1706.5" y="1756.5" width="2293" height="471" fill="white" stroke="#FF0000" />
-    <rect x="1103.5" y="1756.5" width="602" height="1359" fill="blue" stroke="#FF0000" />
+    <rect x="1103.5" y="1756.5" width="602" height="1359" fill="white" stroke="#FF0000" />
     <rect x="40.5" y="41.5" width="719" height="831" fill="white" stroke="#FF0000" />
     <rect x="40.5" y="924.5" width="719" height="1275" fill="white" stroke="#FF0000" />
     <path
